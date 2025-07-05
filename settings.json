@@ -1,0 +1,41 @@
+{
+    "database-client.autoSync": true,
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.createEnvironment.trigger": "off",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "67933EDC-FDC3-44D4-810B-7B0001A14FDD"
+        }
+    ],
+    "mssql.connections": [],
+    "hediet.vscode-drawio.resizeImages": null,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+    "multiCommand.commands": [
+    {
+        "command": "multiCommand.ctrlSelectLineUp",
+        "sequence": [
+        "cursorHome",
+        "cursorEndSelect",
+        ]
+    },
+],
+"vscord.status.image.small.viewing.text": "Conding ☕ {app_name}",
+"vscord.status.buttons.button1.active.enabled": true,
+"vscord.status.buttons.button1.active.label": "☕",
+"vscord.app.privacyMode.enable": true,
+"vscord.status.problems.enabled": false,
+"vscord.status.details.text.viewing": "☕️ Coding in {app_name}",
+"vscord.status.state.debugging.enabled": false,
+"vscord.status.state.idle.enabled": false,
+"vscord.status.image.large.editing.text": "Conding in {LANG} file",
+"vscord.status.state.text.debugging": "☕️ Coding in {app_name}",
+"vscord.status.state.text.idle": "☕️ Coding in {LANG}",
+"vscord.status.state.text.editing": "☕️ Coding in {LANG}",
+"hediet.vscode-drawio.theme": "min",
+"hediet.vscode-drawio.appearance": "dark"
+
+}
