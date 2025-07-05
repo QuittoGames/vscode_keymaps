@@ -71,20 +71,11 @@ Assim, ao abrir o projeto, o VSCode indicará para instalar as extensões necess
 - Uso da extensão Multi Command para sequências de comandos.
 - Facilita o desenvolvimento e produtividade.
 
----
-
-## 📬 Contato
-
-Desenvolvido por **Quitto** - 2025  
-Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
----
 
 ## ⚠️ Avisos
 
 - Mantenha seu VSCode atualizado.
 - Tenha certeza que as extensões recomendadas estão instaladas.
-- Este repositório **não contém dados sensíveis**.
 
 ---
 
